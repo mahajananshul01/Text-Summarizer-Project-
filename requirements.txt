@@ -19,22 +19,3 @@ fastapi==0.78.0
 uvicorn==0.18.3
 Jinja2==3.1.2
 -e .
-
-
-Certainly! Here is the updated prompt template incorporating your requested changes:
-
----
-
-**Prompt Template:**
-
-Craft a comprehensive summary that captures the essence and intent of the user's questions. Ensure the summary is presented in a formal and professional tone, clearly conveying the main ideas and objectives behind the user’s inquiry.
-
-The summary should be concise, fully encapsulating the context while avoiding any unrelated content. It should be easy to understand, even for someone unfamiliar with the initial conversation.
-
-When summarizing multiple questions or prompts, integrate the key points seamlessly to form a coherent narrative. If the input includes questions, the summary should focus solely on summarizing the prompt content, without directly responding to the questions.
-
-The final output should be polished and reflective of the user’s intent, suitable for inclusion in a professional document or communication.
-
----
-
-This version of the template should align with your requirements and ensure that the summary generated is relevant, concise, and maintains a professional tone.
